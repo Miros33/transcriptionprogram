@@ -1,0 +1,7 @@
+Bibliotecas necesarias:
+
+Miniconda
+Python 3.10
+Whisper
+Numpy
+Torch
